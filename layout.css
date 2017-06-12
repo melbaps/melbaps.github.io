@@ -5,6 +5,7 @@ body
 	font-family: "Impact", impact, serif;
 	font-size: 22pt; 
     background-color: LightGray;
+    text-align: center;
 }
 h1 {
     color: DarkOrange;
