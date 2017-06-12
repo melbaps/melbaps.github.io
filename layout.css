@@ -1,0 +1,30 @@
+/* CSS DOC */
+
+body 
+{
+	font-family: "Impact", impact, serif;
+	font-size: 22pt; 
+    background-color: LightGray;
+}
+h1 {
+    color: DarkOrange;
+    text-align: center;
+}
+img {
+    width: 700px;
+    height: auto;
+    border: 20px solid gold;
+    padding: 5px;
+}
+li {
+    color: DarkOrange;
+    font-size: 30px;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
