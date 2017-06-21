@@ -5,6 +5,7 @@ body
 	font-family: "Impact", impact, serif;
 	font-size: 22pt; 
     background-color: LightGray;
+    border: 8px solid gold;
     text-align: center;
 }
 h1 {
@@ -13,6 +14,7 @@ h1 {
 }
 h2 {
     color: DarkOrange;
+    font-size: 18pt; 
     text-align: left;
 }
 
