@@ -21,17 +21,16 @@ img {
     height: auto;
     border: 5px solid gold;
     padding: 5px;
-    text-align: center;
 }
 li {
     color: DarkOrange;
     font-size: 30px;
 }
 a:link {
-    text-decoration: none;
+    text-decoration: orange;
 }
 a:hover
 {
      color:#00A0C6;
-     text-decoration:none;
+     text-decoration: yellow;
      cursor:pointer;
