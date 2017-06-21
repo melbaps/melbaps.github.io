@@ -5,7 +5,7 @@ body
 	font-family: "Impact", impact, serif;
 	font-size: 22pt; 
     background-color: LightGray;
-    border: 20px solid gold;
+    border: 10px solid gold;
 }
 h1 {
     color: DarkOrange;
@@ -19,7 +19,7 @@ h2 {
 img {
     width: 500px;
     height: auto;
-    border: 20px solid gold;
+    border: 5px solid gold;
     padding: 5px;
 }
 li {
