@@ -5,6 +5,7 @@ body
 	font-family: "Impact", impact, serif;
 	font-size: 22pt; 
     background-color: LightGray;
+    border: 20px solid gold;
 }
 h1 {
     color: DarkOrange;
@@ -16,7 +17,7 @@ h2 {
 }
 h3 {
     color: DarkOrange;
-    text-align: right;
+    text-align: left;
 }
 img {
     width: 500px;
